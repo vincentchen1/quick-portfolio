@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Music
 
 [For Lovers - Lamp](https://www.tiktok.com/@vincent_chen/video/7110465731158084910?is_copy_url=1&is_from_webapp=v1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,22 +17,22 @@
 
 ---
 
-### Category Name 2
+### Coding
 
-- [For Lovers - Lamp](https://www.tiktok.com/@vincent_chen/video/7110465731158084910?is_copy_url=1&is_from_webapp=v1)
-- [Leaves From the Vine - ATLA](https://www.tiktok.com/@vincent_chen/video/7110908009454259499?is_copy_url=1&is_from_webapp=v1)
-- [Nothing - Bruno Major](https://www.tiktok.com/@vincent_chen/video/7110909374318710062?is_copy_url=1&is_from_webapp=v1)
+- [My first website!](https://wvcs.github.io/website-vincentchen-1/)
+- [Coin flip](https://github.com/vincentchen1/python-coin-flip.git)
+- [Pokemon project](https://github.com/vincentchen1/python-final-project.git)
 - [Coming soon!](http://example.com/)
 - [Coming soon!](http://example.com/)
 
 ---
 
-### Category Name 3
+### Applications
 
 
-- [For Lovers - Lamp](https://www.tiktok.com/@vincent_chen/video/7110465731158084910?is_copy_url=1&is_from_webapp=v1)
-- [Leaves From the Vine - ATLA](https://www.tiktok.com/@vincent_chen/video/7110908009454259499?is_copy_url=1&is_from_webapp=v1)
-- [Nothing - Bruno Major](https://www.tiktok.com/@vincent_chen/video/7110909374318710062?is_copy_url=1&is_from_webapp=v1)
+- [Resume](https://docs.google.com/document/d/1J3LgvPDgcsL9NDEbqfkGGhut_S6L8Av8ei8tDFrb1hw/edit?usp=sharing)
+- [Key Club website that I manage](https://wvkeyclub.wixsite.com/wvkeyclub)
+- [LinkedIn](https://www.linkedin.com/in/vincent-chen-a89b63217/)
 - [Coming soon!](http://example.com/)
 - [Coming soon!](http://example.com/)
 
