@@ -5,15 +5,15 @@
 ### Music
 
 [For Lovers - Lamp](https://www.tiktok.com/@vincent_chen/video/7110465731158084910?is_copy_url=1&is_from_webapp=v1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<video src="<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@vincent_chen/video/7110465731158084910" data-video-id="7110465731158084910" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@vincent_chen" href="https://www.tiktok.com/@vincent_chen">@vincent_chen</a> i hope this reaches the right target audience <a title="lamp" target="_blank" href="https://www.tiktok.com/tag/lamp">#lamp</a> <a title="forlovers" target="_blank" href="https://www.tiktok.com/tag/forlovers">#forlovers</a> <a target="_blank" title="♬ original sound - vincent" href="https://www.tiktok.com/music/original-sound-7110465666302151470">♬ original sound - vincent</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>"/>
 
 ---
 [Leaves From the Vine - ATLA](https://www.tiktok.com/@vincent_chen/video/7110908009454259499?is_copy_url=1&is_from_webapp=v1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<video src="<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@vincent_chen/video/7110908009454259499" data-video-id="7110908009454259499" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@vincent_chen" href="https://www.tiktok.com/@vincent_chen">@vincent_chen</a> turning this acc into a music page ig 😁😁                leaves from the vine - atla <a title="tylee" target="_blank" href="https://www.tiktok.com/tag/tylee">#tylee</a> <a title="tophsfeet" target="_blank" href="https://www.tiktok.com/tag/tophsfeet">#tophsfeet</a> <a target="_blank" title="♬ original sound - vincent" href="https://www.tiktok.com/music/original-sound-7110907853875022635">♬ original sound - vincent</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>"/>
 
 ---
 [Nothing - Bruno Major](https://www.tiktok.com/@vincent_chen/video/7110909374318710062?is_copy_url=1&is_from_webapp=v1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<video src="<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@vincent_chen/video/7110909374318710062" data-video-id="7110909374318710062" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@vincent_chen" href="https://www.tiktok.com/@vincent_chen">@vincent_chen</a> <p>music people, please critique my skills 🙏🙏                                 nothing - bruno major (my signature song!!)</p> <a target="_blank" title="♬ original sound - vincent" href="https://www.tiktok.com/music/original-sound-7110909224288258858">♬ original sound - vincent</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>"/>
 
 ---
 
