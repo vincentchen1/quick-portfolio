@@ -4,7 +4,10 @@
 
 ### Music
 
-[For Lovers - Lamp](https://www.tiktok.com/@vincent_chen/video/7110465731158084910?is_copy_url=1&is_from_webapp=v1)
+[For Lovers - Lamp]
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.tiktok.com/@vincent_chen/video/7110465731158084910?is_copy_url=1&is_from_webapp=v1)
+
+(https://www.tiktok.com/@vincent_chen/video/7110465731158084910?is_copy_url=1&is_from_webapp=v1)
 <video src="<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@vincent_chen/video/7110465731158084910" data-video-id="7110465731158084910" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@vincent_chen" href="https://www.tiktok.com/@vincent_chen">@vincent_chen</a> i hope this reaches the right target audience <a title="lamp" target="_blank" href="https://www.tiktok.com/tag/lamp">#lamp</a> <a title="forlovers" target="_blank" href="https://www.tiktok.com/tag/forlovers">#forlovers</a> <a target="_blank" title="♬ original sound - vincent" href="https://www.tiktok.com/music/original-sound-7110465666302151470">♬ original sound - vincent</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>"/>
 
 ---
